@@ -53,4 +53,5 @@ To get started with the project on your local machine, follow these steps:
 ### **2. Run the Notebook**
 You can run the project Jupyter Notebook by executing:
 ```bash
-jupyter notebook notebooks/GDP_Correlation_Analysis.ipynb
+jupyter notebook notebooks/Statistical-Techniques---Correlation-Using-India-s-GDP-Data-1960-2022-
+.ipynb
